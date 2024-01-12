@@ -1,0 +1,11 @@
+{
+  "feature": "terra_world:water_remover",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "absolute": -8
+      }
+    }
+  ]
+}

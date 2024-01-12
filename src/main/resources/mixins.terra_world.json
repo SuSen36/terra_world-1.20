@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.7.0",
+  "package": "com.susen36.terraworld.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.terra_world.refmap.json",
+  "mixins": [
+    "AbstractPiglinMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+  ]
+}
